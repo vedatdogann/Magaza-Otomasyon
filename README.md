@@ -8,4 +8,4 @@ Bu proje, bir mağaza yönetiminin geliştirilmesini hedeflemektedir. Bir ürün
 
 ## Ayrıntılı Bilgi
 
-Proje hakkında daha fazla bilgi için lütfen [MagazaRapor.doc](MagazaRapor.doc) dosyasını inceleyin.
+Proje hakkında görselleri ve daha fazla bilgi için lütfen [MagazaRapor.doc](MagazaRapor.doc) dosyasını inceleyin.
