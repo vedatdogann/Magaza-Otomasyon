@@ -13,4 +13,5 @@ Bu proje, bir mağaza yönetiminin geliştirilmesini hedeflemektedir. Bir ürün
 
 ## Ayrıntılı Bilgi
 
-Proje hakkında ayrıntılı görselleri ve daha fazla bilgi için lütfen [MagazaRapor.docx](MagazaOtomasyon/MagazaRapor.docx) dosyasını inceleyin ya da benimle iletişime geçin. 
+Proje hakkında ayrıntılı görselleri ve daha fazla bilgi için lütfen [MagazaRapor.docx](MagazaOtomasyon/MagazaRapor.docx) dosyasını inceleyin ya da [benimle iletişime geçiniz](mailto:vedat202dogan@gmail.com)
+ 
